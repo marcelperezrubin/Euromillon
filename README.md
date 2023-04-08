@@ -1,7 +1,7 @@
 # Euromillon
 He creado algunos programas con Python para generar combinaciones de números de la lotería de Euromillon,
 
-El primer Programa genera combinaciones aleatorias.
+El primer Programa "combinacion_ganadora.py" genera combinaciones aleatorias.
 
 Los otros dos programas lo que hacen es generar los 5 numeros mas frecuentes y los 5 numeros menos frecuentes al igual que las estrellas,
 basandose en todos los sorteos que han habido de la loteria Euromillon.
