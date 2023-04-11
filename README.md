@@ -9,4 +9,7 @@ basandose en todos los sorteos que han habido de la loteria Euromillon.
 He dejado un archivo csv, para que el programa pueda leer todas las combinaciones ganadoras desde los años 2004 al 2023, y asi poder darnos
 cuales son los numeros mas frecuentes y los menos frecuentes.
 
+El programa "generator_nums.py" genera 1 combinación de 5 numeros y 2 estrellas que no han salido en el Euromillon, basandose en el archivo historico csv.
+
+
 que lo disfruteis !! =)
