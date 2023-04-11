@@ -1,4 +1,4 @@
-#Esto es un programa que genera 1 combinación de 5 numeros y 2 estrellas que no han salido en el Euromillon.
+#Esto es un programa que genera 1 combinación de 5 numeros y 2 estrellas que no han salido en el Euromillon, se basa en un archivo historico del Euromillon.
 
 import itertools
 import csv
